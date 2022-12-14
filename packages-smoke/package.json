@@ -35,7 +35,7 @@
     "core-js": "^2.5.7",
     "date-fns": "2",
     "eva-icons": "1.1.2",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "moment": "^2.22.2",
     "rxjs": "6.5.4",
     "tslib": "^2.1.0",
